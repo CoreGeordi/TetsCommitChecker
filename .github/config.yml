@@ -1,0 +1,1 @@
+COMMIT_MESSAGE_REGEX: /^([a-z][a-z][a-z]-[0-9]+|[Mm]erge|[Rr]evert)(.|\n)*/i

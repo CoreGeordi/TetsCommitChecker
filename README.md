@@ -1,3 +1,3 @@
 # TetsCommitChecker
 
-adding whyyy
+adding test
