@@ -1,4 +1,4 @@
 # TetsCommitChecker
 
 adding shit
-aldo me
+aldo me hello
